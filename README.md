@@ -1,5 +1,5 @@
 # smackchat-preview
-Web messenger
+Web messenger for mobile
 
 # Site
 If you want see this web messenger, when go to [Smackchat](https://bodamat.github.io/smackchat-preview/#/auth).
